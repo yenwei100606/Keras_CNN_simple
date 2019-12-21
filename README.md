@@ -24,3 +24,7 @@ CNN的作用是簡化Neural Network的架構，用Prior Knowledge把Fully Connec
 
 ### loss 與 validation loss關係
 ![image](train_history.JPG)
+
+## 結論
+準備大量有label的圖，經過一個未訓練的Model，其中Model內任何像素、特徵權重和全連結層的值都是隨機決定的。然後我們就可以用一張張標好的圖片訓練這個 CNN。經過CNN的處理每張圖片都會有辨識誤差，我們不斷的調整特徵及權重將誤差縮小，不斷重複上述步驟，如果有大量具有label的圖片，能夠使model處於穩定狀態。
+
