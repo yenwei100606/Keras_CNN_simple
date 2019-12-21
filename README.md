@@ -19,8 +19,8 @@ CNN的作用是簡化Neural Network的架構，用Prior Knowledge把Fully Connec
 
 ![image](CNN_architecture.JPG)
 
-## Model架構如下
+### Model架構如下
 ![image](summary.JPG)
 
-## loss 與 validation loss關係如下圖
+### loss 與 validation loss關係
 ![image](train_history.JPG)
