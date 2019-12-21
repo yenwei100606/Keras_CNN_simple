@@ -1,6 +1,7 @@
 # Keras_MLP_model
 
 CNN的作用是簡化Neural Network的架構，用Prior Knowledge把Fully Connected Layer的參數簡化。
+![image](CNN_architecture.JPG)
  
 ## CNN Property
 1. Some patterns are much smaller than the whole image.
