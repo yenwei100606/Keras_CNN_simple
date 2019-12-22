@@ -1,3 +1,6 @@
+###### 本文內容節錄自Hung-yi Lee , Machine Learning(2017) 課程內容
+###### 本文圖片來自於李宏毅老師上課講義
+
 # Keras_MLP_model
 
 CNN的作用是簡化Neural Network的架構，用Prior Knowledge把Fully Connected Layer的參數簡化。
